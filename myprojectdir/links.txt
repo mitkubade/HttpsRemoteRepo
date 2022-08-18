@@ -1,0 +1,10 @@
+1.https://www.youtube.com/watch?v=athGdgTlBAs&list=PLIIVnHu95JbrCGMpINC3SOGaX0qgyZWTu
+https://www.youtube.com/watch?v=pkQ5rUBxBzk
+https://www.youtube.com/watch?v=UHa-3SPv6XY
+https://www.youtube.com/results?search_query=openstack+australia
+
+Billene Seyoum
+https://portal.azure.com
+/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.git
+hubusercontent.com%2FGoDeploy%2FAZ300%2Fmaster%2Fxg-azure-master%2FmainTemplate.json
+20.124.188.136 (S2S-GW-PIP)
