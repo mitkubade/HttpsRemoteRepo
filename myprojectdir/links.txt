@@ -8,3 +8,4 @@ https://portal.azure.com
 /#create/Microsoft.Template/uri/https%3A%2F%2Fraw.git
 hubusercontent.com%2FGoDeploy%2FAZ300%2Fmaster%2Fxg-azure-master%2FmainTemplate.json
 20.124.188.136 (S2S-GW-PIP)
+Praise the Lord
